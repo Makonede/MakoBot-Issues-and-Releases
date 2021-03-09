@@ -15,6 +15,7 @@ Steps to reproduce the behavior:
 1. Lorem ipsum
 2. Dolor sit amet
 3. Consectetur adipiscing elit
+
 …
 
 **Expected behavior**
