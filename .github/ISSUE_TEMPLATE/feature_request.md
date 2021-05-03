@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea
-title: "[FEATURE] Your Feature Here"
+title: "[SUGGESTION] Your Feature Here"
 labels: enhancement
 assignees: Makonede
 

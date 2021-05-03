@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a problem with the bot to help keep the bot running well
 title: "[BUG] Your Bug Here"
 labels: bug
 assignees: Makonede

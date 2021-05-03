@@ -1,7 +1,7 @@
 ---
 name: Support
-about: Ask us anything
-title: "[SUPPORT] Your Question Here"
+about: Ask me anything
+title: "[QUESTION] Your Question Here"
 labels: question
 assignees: Makonede
 
